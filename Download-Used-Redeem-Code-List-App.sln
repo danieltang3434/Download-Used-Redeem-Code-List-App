@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Download-Used-Redeem-Code-List-App", "Download-Used-Redeem-Code-List-App\Download-Used-Redeem-Code-List-App.csproj", "{5657A78A-D42E-4E0D-A9E3-37B4CB40E8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5657A78A-D42E-4E0D-A9E3-37B4CB40E8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5657A78A-D42E-4E0D-A9E3-37B4CB40E8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5657A78A-D42E-4E0D-A9E3-37B4CB40E8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5657A78A-D42E-4E0D-A9E3-37B4CB40E8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB8D705-8DD1-4B42-999F-66C5DD884ECB}
+	EndGlobalSection
+EndGlobal
